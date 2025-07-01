@@ -16,6 +16,4 @@
 - Pandas
 - Visual Studio Code
 
-This project is open-source and extensible. Ideal for learners or developers who want to experiment with frontend Python apps using Streamlit.
-
 ---
