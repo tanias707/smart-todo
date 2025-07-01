@@ -19,5 +19,3 @@
 This project is open-source and extensible. Ideal for learners or developers who want to experiment with frontend Python apps using Streamlit.
 
 ---
-
-Let me know if you want to add login support, CSV export, or Google Sheets next.
