@@ -1,7 +1,5 @@
 # Smart To-Do List
-
-[![Run App](https://img.shields.io/badge/Launch%20App-Streamlit-blue?logo=streamlit)](https://your-streamlit-app-link)
-
+[![Run App](https://img.shields.io/badge/Launch%20App-Streamlit-blue?logo=streamlit)](https://smart-todo.streamlit.app/)
 ## About
 **Smart To-Do List** is a lightweight productivity web application developed using Streamlit and Python. It enables users to manage daily tasks, track emotional patterns, and maintain focus through built-in time management techniques.
 
